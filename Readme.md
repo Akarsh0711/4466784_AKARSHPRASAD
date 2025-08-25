@@ -2,10 +2,12 @@
 
 ## Screenshots
 
-<img src="https://github.com/Akarsh0711/4466784_AKARSHPRASAD/blob/main/SDLC/greatlearn2.jpg" alt="GreatLearn" width="400"/>
-<img src="https://github.com/Akarsh0711/4466784_AKARSHPRASAD/blob/main/Linux/Screenshot.jpg" alt="Linux Screenshot" width="400"/>
-<img src="https://github.com/Akarsh0711/4466784_AKARSHPRASAD/blob/main/Git&Github/8685103_90549901753454007679_page-0001.jpg" alt="Page1" width="400"/>
-<img src="https://github.com/Akarsh0711/4466784_AKARSHPRASAD/blob/main/Git&Github/certificate_page-0001.jpg" alt="Certificate" width="400"/>
+<img src="https://raw.githubusercontent.com/Akarsh0711/4466784_AKARSHPRASAD/main/SDLC/greatlearn2.jpg" alt="GreatLearn" width="400"/>
+<img src="https://raw.githubusercontent.com/Akarsh0711/4466784_AKARSHPRASAD/main/Linux/Screenshot.jpg" alt="Linux Screenshot" width="400"/>
+<img src="https://raw.githubusercontent.com/Akarsh0711/4466784_AKARSHPRASAD/main/Git&Github/8685103_90549901753454007679_page-0001.jpg" alt="Page1" width="400"/>
+<img src="https://raw.githubusercontent.com/Akarsh0711/4466784_AKARSHPRASAD/main/Git&Github/certificate_page-0001.jpg" alt="Certificate" width="400"/>
+<img src="https://raw.githubusercontent.com/Akarsh0711/4466784_AKARSHPRASAD/main/Solo%20Learn/63d4e2e9-ce8f-4a2e-8158-54fd6e96622f.jpg" alt="C Basics" width="400"/>
+
 ## Linux Screenshot
 
-<img src="https://github.com/Akarsh0711/4466784_AKARSHPRASAD/blob/main/Linux/Screenshot.jpg" alt="Linux Screenshot" width="500"/>
+<img src="https://raw.githubusercontent.com/Akarsh0711/4466784_AKARSHPRASAD/main/Linux/Screenshot.jpg" alt="Linux Screenshot" width="500"/>  
