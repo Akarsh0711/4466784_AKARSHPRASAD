@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main()
+{
+   long long int a[5],i,j,max ,sum=0,min;
+   for(i=0;i<5;i++)
+   scanf("%Ld",&a[i]);
+   max=0;
+   min=9223372036854775804;
+   for(i=0;i<5;i++){
+   sum=0;
+   for(j=0;j<5;j++){
+   if(i!=j)
+   sum=sum+a[j];
+   }
+if(sum>max)
+    max=sum;
+    if(sum<min)
+    min=sum;
+}
+printf("%Ld ",min);
+printf("%Ld",max);
+}

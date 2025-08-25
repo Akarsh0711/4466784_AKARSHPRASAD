@@ -1,0 +1,40 @@
+#include <assert.h>
+#include <ctype.h>
+#include <limits.h>
+#include <math.h>
+#include <stdbool.h>
+#include <stddef.h>
+#include <stdint.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+
+int main()
+{
+    int t,n,i;
+    scanf("%d",&t);
+    while(t--)
+        {
+            int a[100010],b[100010];
+            int sum=0;
+            scanf("%d",&n);
+            for(i=1;i<=n;i++)
+                {
+                    b[i]=sum;
+                    scanf("%d",&a[i]);
+                    sum+=a[i];
+                }
+            for(i=1;i<=n;i++)
+                {
+                    if(b[i]==sum-b[i]-a[i])
+                        {
+                            printf("YES\n");
+                            goto A;
+                        }
+                }
+        printf("NO\n");
+        A:;
+        }
+    return(0);
+}
